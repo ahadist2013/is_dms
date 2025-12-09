@@ -2,7 +2,7 @@
 // Global Database Connection Configuration
 $host = 'localhost';
 $username = 'ibnsina_dbahadbddshibsina';
-$password = '-5]KJ4XqHx?Scg#c'; // Replace with your database password
+$password = ''; // Replace with your database password
 $database = 'ibnsina_ahadbddshibsina'; // Replace with your database name
 // ===============================================
 // New: Define Project Base Path for Universal Links
