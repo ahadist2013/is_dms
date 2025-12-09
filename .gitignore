@@ -1,0 +1,11 @@
+# Database connection settings
+db_connection.php
+database_config.php
+.env
+
+# Folders ignored
+/vendor/
+
+# Temporary files or logs
+*.log
+*.tmp
